@@ -1,2 +1,2 @@
-# livro-receitas
-Meu livro de receitas
+#  Manual-Infograficos
+Arquivos disponibilizados em cursos ou de criação
